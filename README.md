@@ -1,9 +1,3 @@
-# Week 44 Review
+# Week 44
 # Sebastian James Bentley (cph-sb287)
 
-## Tuesday - Fully completed
-
-## Wednesday - Fully completed
-
-
-### Editor used - VisualStudioCode
